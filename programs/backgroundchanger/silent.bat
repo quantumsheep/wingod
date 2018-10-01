@@ -1,0 +1,1 @@
+START /MIN bc.exe %~dp0/wallpaper.jpg
